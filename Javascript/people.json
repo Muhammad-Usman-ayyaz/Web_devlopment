@@ -1,0 +1,22 @@
+[
+  {
+    "name": "spongebob",
+    "age": 20,
+    "occupation": "fry cook"
+  },
+  {
+    "name": "squidward",
+    "age": 30,
+    "occupation": "cashier"
+  },
+  {
+    "name": "sandy",
+    "age": 25,
+    "occupation": "scientist"
+  },
+  {
+    "name": "patrick",
+    "age": 22,
+    "occupation": "starfish"
+  }
+]
